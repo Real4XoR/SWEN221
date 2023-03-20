@@ -2,7 +2,7 @@
 
 A backup repo to keep all my SWEN221 work in one place.
 
-All the assignments scored atleast 80% and 100& on the labs.
+All the assignments scored atleast 80% and 100% on the labs.
 
 **DISCLAIMER**
 
